@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 int main() {
     char lines[3][30] = {
         "/test.txt",
